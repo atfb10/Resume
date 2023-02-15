@@ -1,3 +1,3 @@
 # Resume
 
-My personal Resume, last updated August 2020.
+My personal Resume, last updated February 2023.
